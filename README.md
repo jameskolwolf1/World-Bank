@@ -1,4 +1,4 @@
-# Open-Bank
+# Open-Banking
 
 This app will make banking easier, faster, and manageable. This app/website will also give you a budgeting tool, and two accounts, which are a checking account and a savings account (There might be a third account for investment to "free game" for you but it's up in the air). There are different budgeting tools. For example, you have that 70/30 budget plan where for every deposit that goes into your account, it can take 70% of that and put it into your checking account and then put the 30% into your savings account. It can give you statistical data and graphs about how much you spend or deposit your money (Maybe a Summary) for each month. (Maybe compare each year up to 3 to 4 years MAYBE) Also, it has to be fast with big data sets, which can only be solved by testing.
 
